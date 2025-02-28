@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "  Morais.com" "\0"
+            VALUE "CompanyName", "com.example" "\0"
             VALUE "FileDescription", "nike_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "nike_app" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024   Morais.com. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "nike_app.exe" "\0"
             VALUE "ProductName", "nike_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
